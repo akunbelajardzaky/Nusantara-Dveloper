@@ -52,7 +52,7 @@ import VueIco from "../components/icons/vueIco.vue";
 
     <section class="mt-60">
       <div class="ClassName xl:p-0 p-5">
-        <h3 class="xl:text-4xl text-2xl leading-9 text-start dark:text-gray-200">Seamless <span class="dark:text-blue-400 font-semibold" style="text-shadow: 0px 0px 20px">integration</span> with your existing <span class="dark:text-sky-400 font-semibold" style="text-shadow: 0px 0px 20px">ecosystem</span>.</h3>
+        <h3 class="xl:text-4xl text-2xl leading-9 text-start dark:text-gray-200">kami bangga dengan <span class="dark:text-blue-400 font-semibold" style="text-shadow: 0px 0px 20px">integration</span> dengan existing <span class="dark:text-sky-400 font-semibold" style="text-shadow: 0px 0px 20px">ecosystem</span>.</h3>
         <p class="dark:text-gray-300 xl:text-lg xl:w-1/3 xl:leading-9 mt-8">List of packages to extend your Refine project with UI frameworks, backend connectors and other powerful tools.</p>
       </div>
       <div class="border-t border-gray-800 mt-12 h-5"></div>
