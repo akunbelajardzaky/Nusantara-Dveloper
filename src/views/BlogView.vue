@@ -193,7 +193,6 @@
           </div>
 
           <div class="space-y-3 p-10 rounded-3xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
-           rea
             <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Simple & clean designs</h1>
             <p class="text-gray-500 text-sm leading-7 dark:text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet</p>
           </div>

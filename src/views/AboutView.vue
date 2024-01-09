@@ -129,14 +129,14 @@
             <img class="rounded-full asset_profile" src="../assets/img/assetpeople/Keyza.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Keyza Dinaro</h3>
-              <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+              <p class="mt-3 text-sm dark:text-gray-400">DevOps Games</p>
             </div>
           </div>
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/assetpeople/vito.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Vito Elkayis</h3>
-              <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+              <p class="mt-3 text-sm dark:text-gray-400">Database Analyzer</p>
             </div>
           </div>
         </div>
@@ -145,7 +145,7 @@
             <img class="rounded-full asset_profile" src="../assets/img/assetpeople/celis.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Celis Hasanuddin</h3>
-              <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+              <p class="mt-3 text-sm dark:text-gray-400">UI Designer</p>
             </div>
           </div>
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
@@ -159,14 +159,14 @@
             <img class="rounded-full asset_profile" src="../assets/img/assetpeople/zua.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Lazuardi Diendi</h3>
-              <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+              <p class="mt-3 text-sm dark:text-gray-400">Backend Developer</p>
             </div>
           </div>
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/assetpeople/fael.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Rafael Destiano</h3>
-              <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+              <p class="mt-3 text-sm dark:text-gray-400">UI Designer</p>
             </div>
           </div>
         </div>
@@ -183,7 +183,7 @@
     <section class="p-2 margin_state dark:text-gray-200 rounded-3xl bg-[#1c1c2e]">
       <div class="flex coloumn_rate items-center p-10 rounded-3xl">
         <div class="ClassName img">
-          <img src="../assets/img/rplcoding.jpg" class="rounded-3xl hover:scale-105 duration-100" width="650px" alt="" />
+          <img src="../assets/img/github-ss.PNG" class="rounded-3xl hover:scale-105 duration-100" width="650px" alt="" />
         </div>
         <div class="container_rate mx-auto grid justify-center grid-cols-2 text-center lg:grid-cols-3">
           <div class="flex flex-col justify-start m-2 lg:m-6 dark:shadow-2xl hover:scale-105 duration-100">
@@ -226,7 +226,7 @@
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/bima.jpg" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">bima Nugroho</h2>
-                <p class="text-gray-400">UI Designer</p>
+                <p class="text-gray-400">Member</p>
               </div>
             </div>
           </div>
@@ -235,7 +235,7 @@
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/ronald.jpg" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Ronald Alexander</h2>
-                <p class="text-gray-400">CTO</p>
+                <p class="text-gray-400">Member</p>
               </div>
             </div>
           </div>
@@ -244,7 +244,7 @@
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/denis.jpg" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Denis Diananta</h2>
-                <p class="text-gray-400">Founder</p>
+                <p class="text-gray-400">Member</p>
               </div>
             </div>
           </div>
@@ -253,7 +253,7 @@
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/dirga.jpg" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Pratama Dirga</h2>
-                <p class="text-gray-400">DevOps</p>
+                <p class="text-gray-400">Member</p>
               </div>
             </div>
           </div>
@@ -262,7 +262,7 @@
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/syafiq.jpg" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Syafiq Alfarensqi</h2>
-                <p class="text-gray-400">Software Engineer</p>
+                <p class="text-gray-400">Member</p>
               </div>
             </div>
           </div>
@@ -271,7 +271,7 @@
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/galih.jpg" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Galih Alfarel</h2>
-                <p class="text-gray-400">UX Researcher</p>
+                <p class="text-gray-400">Member</p>
               </div>
             </div>
           </div>
@@ -280,7 +280,7 @@
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/gantari.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Gantari tjandra</h2>
-                <p class="text-gray-400">QA Engineer</p>
+                <p class="text-gray-400">Member</p>
               </div>
             </div>
           </div>
@@ -289,7 +289,7 @@
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/hafidz.jpg" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Hafidz Aulia</h2>
-                <p class="text-gray-400">System</p>
+                <p class="text-gray-400">Member</p>
               </div>
             </div>
           </div>
@@ -298,7 +298,7 @@
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/ian.jpg" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Rodrigo Monchi</h2>
-                <p class="text-gray-500">Product Manager</p>
+                <p class="text-gray-500">Member</p>
               </div>
             </div>
           </div>
@@ -307,7 +307,7 @@
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/majid.jpg" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Rodrigo Monchi</h2>
-                <p class="text-gray-500">Product Manager</p>
+                <p class="text-gray-500">Member</p>
               </div>
             </div>
           </div>
@@ -316,7 +316,7 @@
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/rafa.jpeg" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Rodrigo Monchi</h2>
-                <p class="text-gray-500">Product Manager</p>
+                <p class="text-gray-500">Member</p>
               </div>
             </div>
           </div>
@@ -325,7 +325,7 @@
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/acham.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Rodrigo Monchi</h2>
-                <p class="text-gray-500">Product Manager</p>
+                <p class="text-gray-500">Member</p>
               </div>
             </div>
           </div>
